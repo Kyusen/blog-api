@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="24">
+          <list size="35">
             <item index="0" class="java.lang.String" itemvalue="PyJWT" />
             <item index="1" class="java.lang.String" itemvalue="alembic" />
             <item index="2" class="java.lang.String" itemvalue="six" />
@@ -29,6 +29,17 @@
             <item index="21" class="java.lang.String" itemvalue="itsdangerous" />
             <item index="22" class="java.lang.String" itemvalue="Mako" />
             <item index="23" class="java.lang.String" itemvalue="Flask" />
+            <item index="24" class="java.lang.String" itemvalue="chardet" />
+            <item index="25" class="java.lang.String" itemvalue="request" />
+            <item index="26" class="java.lang.String" itemvalue="post" />
+            <item index="27" class="java.lang.String" itemvalue="public" />
+            <item index="28" class="java.lang.String" itemvalue="certifi" />
+            <item index="29" class="java.lang.String" itemvalue="get" />
+            <item index="30" class="java.lang.String" itemvalue="query-string" />
+            <item index="31" class="java.lang.String" itemvalue="requests" />
+            <item index="32" class="java.lang.String" itemvalue="urllib3" />
+            <item index="33" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="34" class="java.lang.String" itemvalue="idna" />
           </list>
         </value>
       </option>
